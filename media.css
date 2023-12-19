@@ -1,0 +1,13 @@
+@media (max-width:700px){
+    section{
+       font-size: 1.8vw; 
+   
+    }
+    .language ul{
+        margin-left: 2vw;
+    }
+    .sub-section-2 .objective .info p{
+        font-size: 1.9vw !important ;
+        line-height: 2vw;
+    }
+}
